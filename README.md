@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dominoeffekten
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning to make JS and HTML assigments
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m currently learning PWA and AMP sites
+- 💞️ I’m looking to collaborate on..
 - 📫 How to reach me ...
 - 🔍 See my projects on https://codepen.io/dominoeffekten
 
